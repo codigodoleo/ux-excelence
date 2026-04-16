@@ -1,0 +1,25 @@
+{
+  "name": "ux-excelence-marketplace",
+  "owner": {
+    "name": "codigodoleo"
+  },
+  "metadata": {
+    "description": "Marketplace for UX Excelence design review skills."
+  },
+  "plugins": [
+    {
+      "name": "ux-excelence",
+      "description": "Design review skills for brand, visual, copy and UX audits. Discovery-first: derives criteria from project source-of-truth files.",
+      "version": "1.0.0",
+      "source": {
+        "source": "github",
+        "repo": "codigodoleo/ux-excelence",
+        "ref": "main"
+      },
+      "author": {
+        "name": "codigodoleo",
+        "url": "https://github.com/codigodoleo"
+      }
+    }
+  ]
+}
