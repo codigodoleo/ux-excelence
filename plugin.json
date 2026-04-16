@@ -1,0 +1,22 @@
+{
+  "name": "ux-excelence",
+  "description": "Design review skills for brand, visual, copy and UX audits. Discovery-first: derives criteria from project source-of-truth files (design-system.lib.pen, brand-dna.md, website-brief.md, briefing-logo.md, components.lib.pen).",
+  "version": "1.0.0",
+  "author": {
+    "name": "codigodoleo",
+    "url": "https://github.com/codigodoleo"
+  },
+  "homepage": "https://github.com/codigodoleo/ux-excelence",
+  "repository": "https://github.com/codigodoleo/ux-excelence",
+  "license": "MIT",
+  "keywords": [
+    "design-review",
+    "brand",
+    "ux",
+    "copy",
+    "visual",
+    "pencil",
+    "design-system",
+    "audit"
+  ]
+}
